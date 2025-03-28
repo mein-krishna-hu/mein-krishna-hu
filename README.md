@@ -34,19 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
----
-
-### 🚀 Top Repositories
-<p align="center">
-  <a href="https://github.com/krishna/my-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna&repo=my-awesome-project&theme=radical" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/krishna/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna&repo=another-project&theme=radical" alt="Project 2"/>
-  </a>
-</p>
-
----
 
 ### 💡 Fun Quote
 <p align="center">
