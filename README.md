@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">a passionate student currently diving into the world of programming. I'm eager to learn and explore new technologies and concepts that can help me grow as a developer.</h3>
 
-- 🌱 I’m currently learning **React,Javascript,C**
+- 🌱 I’m currently learning **React,Javascript,C++**
 
 - 💬 Ask me about **Core Concepts**
 
