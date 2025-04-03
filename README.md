@@ -26,6 +26,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50"/></a>
+  a href="https://www.figma.com/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss-3_732190&psig=AOvVaw2A7VkptjQmoHVBxH7cLcje&ust=1743798590581000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDjxo7avIwDFQAAAAAdAAAAABAE" alt="CSS" width="50" height="50"/></a>
  
 </p>
 
