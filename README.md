@@ -23,10 +23,9 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" height="50"/></a>
+  <a href="[https://www.css.com/](https://developer.mozilla.org/en-US/docs/Web/CSS)" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" height="50"/></a>
  
 </p>
 
