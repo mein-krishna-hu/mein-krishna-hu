@@ -39,5 +39,5 @@
 
 ### 💡 Fun Quote
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A41D&size=22&center=true&vCenter=true&width=500&height=50&lines=Keep+coding+and+stay+curious!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A41D&size=22&center=true&vCenter=true&width=500&height=50&lines=Keep+coding+and+complain+less!" />
 </p>
