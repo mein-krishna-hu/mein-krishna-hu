@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">I chose web development as my entry point into tech 🌍, but my ultimate goal is to dive into cloud computing and cloud gaming tech once I master web dev. 🚀</h3>
+<h3 align="center">I chose web development as my entry point but i also touch react native and apk in between for multi device support 🚀</h3>
 
 ---
 
