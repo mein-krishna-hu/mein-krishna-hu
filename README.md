@@ -52,7 +52,7 @@
       <p>A fun and unique way to visualize the remaining life span based on assumption .</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🦆 <a href="https://pro-duck.netlify.app/ target="_blank">Pro-Duck</a></h4>
+      <h4>🦆 <a href="https://pro-duck.netlify.app/" target="_blank">Pro-Duck</a></h4>
       <img src="https://shields.io" alt="Hub Badge"/>
       <p>A fun productivity dashboard tool that has various theme and pomodoro technique along with todo list upcoming .</p>
     </td>
