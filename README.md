@@ -42,19 +42,19 @@
     <td width="50%" valign="top">
       <h4>🎯 <a href="https://app.netlify.com/projects/focustency/" target="_blank">Focustency</a></h4>
       <img src="https://shields.io" alt="Hub Badge"/>
-      <p>A web application built to streamline daily tasks, track execution speed, and enhance personal focus sessions.</p>
+      <p>A experimental web application built to streamline daily tasks, track execution speed, and enhance personal focus sessions.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🕹️ <a href="https://app.netlify.com/projects/track-dead-end/" target="_blank">Track Dead End</a></h4>
       <img src="https://shields.io" alt="Hub Badge"/>
-      <p>An experimental tracking logic build centered around map pathing limitations and maze structures.</p>
+      <p>A fun and unique way to visualize the remaining life span based on assumption .</p>
     </td>
     <td width="50%" valign="top">
       <h4>🦆 <a href="https://app.netlify.com/projects/pro-duck/" target="_blank">Pro-Duck</a></h4>
       <img src="https://shields.io" alt="Hub Badge"/>
-      <p>A fun productivity dashboard tool that borrows rubber-duck debugging concepts for smooth web workflows.</p>
+      <p>A fun productivity dashboard tool that has various theme and pomodoro technique along with todo list upcoming .</p>
     </td>
   </tr>
 </table>
