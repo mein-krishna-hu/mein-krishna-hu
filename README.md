@@ -40,7 +40,7 @@
       <p>An interactive, web-based stack matching game built to test and train sharp visual reflexes.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 <a href="https://app.netlify.com/projects/focustency/" target="_blank">Focustency</a></h4>
+      <h4>🎯 <a href="https://focustency.netlify.app/" target="_blank">Focustency</a></h4>
       <img src="https://shields.io" alt="Hub Badge"/>
       <p>A experimental web application built to streamline daily tasks, track execution speed, and enhance personal focus sessions.</p>
     </td>
